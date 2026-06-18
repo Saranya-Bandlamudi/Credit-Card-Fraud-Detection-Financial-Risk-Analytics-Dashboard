@@ -136,6 +136,7 @@ Developed an end-to-end Fraud Analytics solution using SQL, Python, and Power BI
 https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 💻 GitHub:
+https://github.com/Saranya-Bandlamudi
 
 
 Gmail:saranyabandlamudi7@gmail.com 
