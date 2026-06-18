@@ -109,8 +109,8 @@ Business Insights & Risk Monitoring
 ---
 
 ## 📷 Dashboard Preview
+<img width="1160" height="652" alt="image" src="https://github.com/user-attachments/assets/d164c95e-77b7-4138-bf69-2a65a2c9bc0d" />
 
-Add your Power BI dashboard screenshot here.
 
 ---
 
