@@ -130,7 +130,7 @@ Developed an end-to-end Fraud Analytics solution using SQL, Python, and Power BI
 
 **Saranya Bandlamudi**
 
-📊 Data Analyst | Power BI | SQL | Python | Data Visualization
+📊 Power BI | SQL | Python | MySQL | Excel
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
