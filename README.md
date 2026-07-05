@@ -139,4 +139,4 @@ https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=
 https://github.com/Saranya-Bandlamudi
 
 
-Gmail:saranyabandlamudi7@gmail.com 
+Gmail:saranyabandlamudicse@gmail.com 
